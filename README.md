@@ -43,3 +43,19 @@ Welcome to my **Connect 4** game! This is a **classic two-player game** where pl
 - Works on **PC, laptops, tablets, and phones**.  
 
 ---
+
+## **🏆 Credits & Acknowledgments**  
+- **Developer:** [Tyreke Hetzel](https://github.com/Hakka2424)  
+- **Project:** Connect 4 - A Web-Based Multiplayer Game  
+- **Course:** CS382 - Modern Web Technologies  
+- **Instructor:** [Professor's Name] *(Optional: Add if required)*  
+- **Year:** 2025  
+- **License:** MIT License  
+
+Special thanks to **friends, classmates, and online resources** that helped refine the project!  
+
+---
+
+**📌 Live Demo:** [hakka2424.github.io/Connect4/](https://hakka2424.github.io/Connect4/)  
+
+🚀 **Enjoy the game and have fun!** 🎮✨
