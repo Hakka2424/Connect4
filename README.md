@@ -48,7 +48,7 @@ Welcome to my **Connect 4** game! This is a **classic two-player game** where pl
 - **Developer:** [Tyreke Hetzel](https://github.com/Hakka2424)  
 - **Project:** Connect 4 - A Web-Based Multiplayer Game  
 - **Course:** CS382 - Modern Web Technologies  
-- **Instructor:** [Professor's Name] *(Optional: Add if required)*  
+- **Instructor:** Bill Hamilton 
 - **Year:** 2025  
 - **License:** MIT License  
 
